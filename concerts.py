@@ -88,13 +88,17 @@ class Concerts:
         concerts = pd.concat([concerts, pd.DataFrame(rows)], ignore_index=True)
         return concerts
     
-    def get_bands_count(self, write_to_csv=False):
+    def get_bands_count(self, write_to_csv=False, details=False):
         bands = self.get_bands()
         bands_count = pd.DataFrame(columns=["Band", "Count"])
         rows = []
         for band in bands:
             count = get_band_count(self.data, band)
-            rows.append({"Band": band, "Count": count})
+            if details:
+                concerts = Concerts(df=self.get_concerts_by_band(band))
+                rows.append({"Band": band, "Count": count, "Concerts": concerts})
+            else:
+                rows.append({"Band": band, "Count": count})
         bands_count = pd.concat([bands_count, pd.DataFrame(rows)], ignore_index=True)
         bands_count = bands_count.sort_values(by=["Count"], ascending=False)
 
@@ -134,9 +138,9 @@ class Concerts:
             for j, month in enumerate(months):
                 month = month + "/" + year
                 month_span.append(month)
-                s = Concerts(df=self.get_concerts_by_month(month))
-                n_concerts.append(len(s.data))
-                n_bands.append(len(s.get_bands()))
+                c = Concerts(df=self.get_concerts_by_month(month))
+                n_concerts.append(len(c.data))
+                n_bands.append(len(c.get_bands()))
 
         return plot(month_span, n_concerts, n_bands)
         
@@ -147,8 +151,8 @@ class Concerts:
         n_concerts = []
         n_bands = []
         for i, year in enumerate(year_span):
-            s = Concerts(df=self.get_concerts_by_year(year))
-            n_concerts.append(len(s.data))
-            n_bands.append(len(s.get_bands()))
+            c = Concerts(df=self.get_concerts_by_year(year))
+            n_concerts.append(len(c.data))
+            n_bands.append(len(c.get_bands()))
 
         return plot(year_span, n_concerts, n_bands)

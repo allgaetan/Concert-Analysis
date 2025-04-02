@@ -1,192 +1,415 @@
-Band,Count
-Ashen,4
-Benighted,3
-Eluveitie,3
-Novelists,2
-The Dali Thundering Concept,2
-The Callous Daoboys,2
-Buy Jupiter,2
-Celeste,2
-Testament,2
-Tesseract,2
-Eyehategod,2
-Kalandra,2
-Dream Theater,2
-Drive North,2
-Dukkha,2
-Hypno5e,2
-Persefone,2
-Porcupine Tree,2
-Hatebreed,2
-Deathawaits,2
-Gorod,2
-Ashed Winter,2
-Bakü,2
-Leprous,2
-Meshuggah,2
-Unprocessed,2
-Unearth,2
-Motionless In White,2
-Primal Rage,1
-Powerwolf,1
-Malevolence,1
-Mars Red Sky,1
-Prismeria,1
-Polyphia,1
-Polaris,1
-Point Mort,1
-Resolve,1
-Mirage,1
-Pastors Of Muppets,1
-Parkway Drive,1
-Rise Of The Northstar,1
-Misery Index,1
-Mudweiser,1
-Papa Roach,1
-Mötley Crüe,1
-Rivers Of Nihil,1
-Napalm Death,1
-Nashville Pussy,1
-Moscow Death Brigade,1
-Ne Obliviscaris,1
-Moonspell,1
-Nervosa,1
-Monuments,1
-Pantera,1
-Nostromo,1
-Monkey3,1
-Obituary,1
-P-Troll,1
-Paledusk,1
-Mobius,1
-Nick Heywood,1
-1000Mods,1
-Saor,1
-Thornhill,1
-The Anchoret,1
-The Hillbilly Moon Explosion,1
-The Ocean,1
-The Old Dead Tree,1
-The Omnific,1
-The Prestige,1
-The Real McKenzies,1
-The Universe Effects,1
-Tribute To Thrash,1
-Sat One,1
-Trivium,1
-Ultra Moule,1
-Vended,1
-Villagers Of Ioannina City,1
-Voidchaser,1
-Walls Of Jericho,1
-While She Sleeps,1
-Within Temptation,1
-The Amity Affliction,1
-Thantifaxath,1
-Tenacious D,1
-Ten56.,1
-Sepultura,1
-Sick Of It All,1
-Silent Planet,1
-Slipknot,1
-Slow Crush,1
-Mad Sin,1
-Smash Hit Combo,1
-Soilwork,1
-Solstafir,1
-Soulfly,1
-Stellar Circuits,1
-Stömb,1
-Sublime C.D.,1
-Suffocation,1
-Sum 41,1
-Svalbard,1
-Talvienkeli,1
-Madball,1
-La Corriveau,1
-MONO,1
-Death Before Dishonor,1
-Carcass,1
-Carpenter Brut,1
-Church Of Misery,1
-Cognitive,1
-Coheed And Cambria,1
-Cult Of Luna,1
-Danko Jones,1
-Dead Kiwis,1
-Deicide,1
-Bombers,1
-Demented Are Go,1
-Eight Sins,1
-Electric Callboy,1
-Electric Jaguar Baby,1
-Employed To Serve,1
-Escape The Fate,1
-Exodus,1
-Fallujah,1
-Born From Pain,1
-Bloodbath,1
-Los Disidentes Del Sucio Motel,1
-Apocalyptica,1
-Alea Jacta Est,1
-Alestorm,1
-Alien Weaponry,1
-Allegaeon,1
-Alter Bridge,1
-Amaranthe,1
-Amon Amarth,1
-Animalize,1
-Arch Enemy,1
-Blockheads,1
-Architects,1
-Beast In Black,1
-Behemoth,1
-Bell Witch,1
-Beyond The Styx,1
-Black Bomb A,1
-Black Flag,1
-Blackrain,1
-Faun,1
-Fight The Fight,1
-GGGOLDDD,1
-Ko Ko Mo,1
-Incubus,1
-Inferi,1
-Insanity Alert,1
-Iron Maiden,1
-Jinjer,1
-Johan Lenox,1
-Kaelan Mikla,1
-Kiss,1
-Korpiklaani,1
-Generation Sex,1
-Kreator,1
-LAMPR3A,1
-Alcest,1
-Left Shore,1
-Leng T'che,1
-Loathe,1
-Lodz,1
-Lorna Shore,1
-In Other Climes,1
-In Flames,1
-Ihsahn,1
-Igorrr,1
-Gojira,1
-Gorgoroth,1
-Gutalax,1
-Haken,1
-Hanabie.,1
-Hangman's Chair,1
-Harbinger,1
-Hate,1
-Heart Attack,1
-Heaven Shall Burn,1
-Heilung,1
-Helms Alee,1
-Hierophant,1
-Hollywood Vampires,1
-Horskh,1
-Hypocrisy,1
-I Prevail,1
-Yoda Rising,1
+Band,Count,Concerts
+Ashen,4,"         Date                                              Bands                City              Venue
+0  14/05/2023                     While She Sleeps;Resolve;Ashen                Lyon    Ninkasi Gerland
+1  20/06/2023  Lorna Shore;Motionless In White;The Amity Affl...                Lyon    Le Transbordeur
+2  10/11/2023                             Novelists;Ashen;Mirage                Lyon        MJC O Totem
+3  06/07/2024  Bakü;Animalize;Ashen;Hanabie.;Smash Hit Combo;...  Colombier-Saugnieu  Plane'R Fest 2024"
+Benighted,3,"         Date                                              Bands                       City                Venue
+0  06/08/2022  Deathawaits;Benighted;Nervosa;Unearth;Bombers;...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022
+1  03/12/2022           Benighted;Gorod;Deathawaits;Ashed Winter              Saint-Etienne               Le Fil
+2  30/09/2024                                Benighted;Cognitive                     Québec               L'Anti"
+Eluveitie,3,"         Date                                              Bands                       City                Venue
+0  02/11/2017                                Eluveitie;Amaranthe                      Paris   Le Cabaret Sauvage
+1  04/08/2019  Lodz;Insanity Alert;Nostromo;Ihsahn;Sick Of It...  Saint-Maurice-De-Gourdans  Sylak Open Air 2019
+2  06/07/2024  Bakü;Animalize;Ashen;Hanabie.;Smash Hit Combo;...         Colombier-Saugnieu    Plane'R Fest 2024"
+Novelists,2,"         Date                                        Bands        City        Venue
+0  10/11/2023                       Novelists;Ashen;Mirage        Lyon  MJC O Totem
+1  25/11/2023  Novelists;Stömb;The Dali Thundering Concept  Guyancourt  La Batterie"
+The Dali Thundering Concept,2,"         Date                                              Bands        City          Venue
+0  17/06/2023  Hierophant;The Dali Thundering Concept;Kalandr...     Clisson  Hellfest 2023
+1  25/11/2023        Novelists;Stömb;The Dali Thundering Concept  Guyancourt    La Batterie"
+The Callous Daoboys,2,"         Date                                      Bands   City       Venue
+0  20/01/2024  Tesseract;Unprocessed;The Callous Daoboys   Lyon  La Rayonne
+1  23/01/2024  Tesseract;Unprocessed;The Callous Daoboys  Paris    Bataclan"
+Buy Jupiter,2,"         Date                                              Bands                       City                Venue
+0  05/08/2023  Buy Jupiter;Beyond The Styx;The Real McKenzies...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023
+1  01/09/2023                    Dukkha;Buy Jupiter;Ashed Winter                       Lyon           Rock N Eat"
+Celeste,2,"         Date                                              Bands                City              Venue
+0  23/02/2024                                       Celeste;Bakü                Lyon        Marché Gare
+1  06/07/2024  Bakü;Animalize;Ashen;Hanabie.;Smash Hit Combo;...  Colombier-Saugnieu  Plane'R Fest 2024"
+Testament,2,"         Date                                              Bands                       City                Venue
+0  04/08/2019  Lodz;Insanity Alert;Nostromo;Ihsahn;Sick Of It...  Saint-Maurice-De-Gourdans  Sylak Open Air 2019
+1  07/08/2022  Dukkha;Heart Attack;Moscow Death Brigade;Hangm...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022"
+Tesseract,2,"         Date                                      Bands   City       Venue
+0  20/01/2024  Tesseract;Unprocessed;The Callous Daoboys   Lyon  La Rayonne
+1  23/01/2024  Tesseract;Unprocessed;The Callous Daoboys  Paris    Bataclan"
+Eyehategod,2,"         Date                                              Bands                       City                Venue
+0  03/08/2019  Yoda Rising;Hate;Monkey3;Eyehategod;Soilwork;D...  Saint-Maurice-De-Gourdans  Sylak Open Air 2019
+1  06/08/2023  Drive North;Eight Sins;Leng T'che;Church Of Mi...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+Kalandra,2,"         Date                                              Bands     City          Venue
+0  12/02/2023                         Leprous;Monuments;Kalandra    Paris   Salle Pleyel
+1  17/06/2023  Hierophant;The Dali Thundering Concept;Kalandr...  Clisson  Hellfest 2023"
+Dream Theater,2,"         Date          Bands      City               Venue
+0  06/03/2016  Dream Theater     Paris  Palais des Congrès
+1  12/03/2025  Dream Theater  Montréal      Place Des Arts"
+Drive North,2,"         Date                                              Bands                       City                Venue
+0  06/08/2023  Drive North;Eight Sins;Leng T'che;Church Of Mi...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023
+1  05/07/2024  Drive North;Blackrain;Beast In Black;Point Mor...         Colombier-Saugnieu    Plane'R Fest 2024"
+Dukkha,2,"         Date                                              Bands                       City                Venue
+0  07/08/2022  Dukkha;Heart Attack;Moscow Death Brigade;Hangm...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022
+1  01/09/2023                    Dukkha;Buy Jupiter;Ashed Winter                       Lyon           Rock N Eat"
+Hypno5e,2,"         Date                                              Bands     City          Venue
+0  15/06/2023  Hypno5e;Coheed And Cambria;I Prevail;In Flames...  Clisson  Hellfest 2023
+1  18/02/2024         Persefone;Hypno5e;LAMPR3A;Stellar Circuits     Lyon     Rock N Eat"
+Persefone,2,"         Date                                       Bands   City          Venue
+0  21/05/2023       Ne Obliviscaris;Persefone;The Omnific  Paris  Le Petit Bain
+1  18/02/2024  Persefone;Hypno5e;LAMPR3A;Stellar Circuits   Lyon     Rock N Eat"
+Porcupine Tree,2,"         Date                                              Bands     City          Venue
+0  02/11/2022                                     Porcupine Tree    Paris      Le Zénith
+1  17/06/2023  Hierophant;The Dali Thundering Concept;Kalandr...  Clisson  Hellfest 2023"
+Hatebreed,2,"         Date                                              Bands                City              Venue
+0  18/06/2023  Slipknot;Pantera;Tenacious D;Amon Amarth;Incub...             Clisson      Hellfest 2023
+1  05/07/2024  Drive North;Blackrain;Beast In Black;Point Mor...  Colombier-Saugnieu  Plane'R Fest 2024"
+Deathawaits,2,"         Date                                              Bands                       City                Venue
+0  06/08/2022  Deathawaits;Benighted;Nervosa;Unearth;Bombers;...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022
+1  03/12/2022           Benighted;Gorod;Deathawaits;Ashed Winter              Saint-Etienne               Le Fil"
+Gorod,2,"         Date                                              Bands           City          Venue
+0  03/12/2022           Benighted;Gorod;Deathawaits;Ashed Winter  Saint-Etienne         Le Fil
+1  17/06/2023  Hierophant;The Dali Thundering Concept;Kalandr...        Clisson  Hellfest 2023"
+Ashed Winter,2,"         Date                                     Bands           City       Venue
+0  03/12/2022  Benighted;Gorod;Deathawaits;Ashed Winter  Saint-Etienne      Le Fil
+1  01/09/2023           Dukkha;Buy Jupiter;Ashed Winter           Lyon  Rock N Eat"
+Bakü,2,"         Date                                              Bands                City              Venue
+0  23/02/2024                                       Celeste;Bakü                Lyon        Marché Gare
+1  06/07/2024  Bakü;Animalize;Ashen;Hanabie.;Smash Hit Combo;...  Colombier-Saugnieu  Plane'R Fest 2024"
+Leprous,2,"         Date                       Bands   City         Venue
+0  12/02/2023  Leprous;Monuments;Kalandra  Paris  Salle Pleyel
+1  05/03/2024     Leprous;Fight The Fight   Lyon    La Rayonne"
+Meshuggah,2,"         Date                                              Bands                       City                Venue
+0  04/08/2019  Lodz;Insanity Alert;Nostromo;Ihsahn;Sick Of It...  Saint-Maurice-De-Gourdans  Sylak Open Air 2019
+1  17/06/2023  Hierophant;The Dali Thundering Concept;Kalandr...                    Clisson        Hellfest 2023"
+Unprocessed,2,"         Date                                      Bands   City       Venue
+0  20/01/2024  Tesseract;Unprocessed;The Callous Daoboys   Lyon  La Rayonne
+1  23/01/2024  Tesseract;Unprocessed;The Callous Daoboys  Paris    Bataclan"
+Unearth,2,"         Date                                              Bands                       City                Venue
+0  06/08/2022  Deathawaits;Benighted;Nervosa;Unearth;Bombers;...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022
+1  16/06/2023  Vended;P-Troll;Escape The Fate;Helms Alee;Unea...                    Clisson        Hellfest 2023"
+Motionless In White,2,"         Date                                              Bands     City            Venue
+0  16/06/2023  Vended;P-Troll;Escape The Fate;Helms Alee;Unea...  Clisson    Hellfest 2023
+1  20/06/2023  Lorna Shore;Motionless In White;The Amity Affl...     Lyon  Le Transbordeur"
+Primal Rage,1,"         Date                                              Bands                       City                Venue
+0  04/08/2023  Primal Rage;Electric Jaguar Baby;Prismeria;Ale...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+Powerwolf,1,"         Date                                              Bands     City          Venue
+0  17/06/2023  Hierophant;The Dali Thundering Concept;Kalandr...  Clisson  Hellfest 2023"
+Malevolence,1,"         Date                                           Bands  City            Venue
+0  08/02/2023  Trivium;Heaven Shall Burn;Malevolence;Obituary  Lyon  Le Transbordeur"
+Mars Red Sky,1,"         Date                                              Bands                City              Venue
+0  05/07/2024  Drive North;Blackrain;Beast In Black;Point Mor...  Colombier-Saugnieu  Plane'R Fest 2024"
+Prismeria,1,"         Date                                              Bands                       City                Venue
+0  04/08/2023  Primal Rage;Electric Jaguar Baby;Prismeria;Ale...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+Polyphia,1,"         Date                 Bands   City     Venue
+0  27/05/2023  Polyphia;Johan Lenox  Paris  Bataclan"
+Polaris,1,"         Date                                     Bands  City       Venue
+0  14/03/2024  Polaris;Silent Planet;Thornhill;Paledusk  Lyon  La Rayonne"
+Point Mort,1,"         Date                                              Bands                City              Venue
+0  05/07/2024  Drive North;Blackrain;Beast In Black;Point Mor...  Colombier-Saugnieu  Plane'R Fest 2024"
+Resolve,1,"         Date                           Bands  City            Venue
+0  14/05/2023  While She Sleeps;Resolve;Ashen  Lyon  Ninkasi Gerland"
+Mirage,1,"         Date                   Bands  City        Venue
+0  10/11/2023  Novelists;Ashen;Mirage  Lyon  MJC O Totem"
+Pastors Of Muppets,1,"         Date                                              Bands                       City                Venue
+0  02/08/2019  Pastors Of Muppets;Mudweiser;In Other Climes;G...  Saint-Maurice-De-Gourdans  Sylak Open Air 2019"
+Parkway Drive,1,"         Date                                              Bands     City          Venue
+0  15/06/2023  Hypno5e;Coheed And Cambria;I Prevail;In Flames...  Clisson  Hellfest 2023"
+Rise Of The Northstar,1,"         Date                                              Bands                City              Venue
+0  06/07/2024  Bakü;Animalize;Ashen;Hanabie.;Smash Hit Combo;...  Colombier-Saugnieu  Plane'R Fest 2024"
+Misery Index,1,"         Date                                              Bands                       City                Venue
+0  07/08/2022  Dukkha;Heart Attack;Moscow Death Brigade;Hangm...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022"
+Mudweiser,1,"         Date                                              Bands                       City                Venue
+0  02/08/2019  Pastors Of Muppets;Mudweiser;In Other Climes;G...  Saint-Maurice-De-Gourdans  Sylak Open Air 2019"
+Papa Roach,1,"         Date                                              Bands     City          Venue
+0  16/06/2023  Vended;P-Troll;Escape The Fate;Helms Alee;Unea...  Clisson  Hellfest 2023"
+Mötley Crüe,1,"         Date                                              Bands     City          Venue
+0  16/06/2023  Vended;P-Troll;Escape The Fate;Helms Alee;Unea...  Clisson  Hellfest 2023"
+Rivers Of Nihil,1,"         Date                                              Bands   City                  Venue
+0  02/12/2022  Rivers Of Nihil;Allegaeon;Fallujah;Harbinger;I...  Paris  Backstage By The Mill"
+Napalm Death,1,"         Date                                              Bands                       City                Venue
+0  06/08/2022  Deathawaits;Benighted;Nervosa;Unearth;Bombers;...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022"
+Nashville Pussy,1,"         Date                                              Bands                       City                Venue
+0  05/08/2023  Buy Jupiter;Beyond The Styx;The Real McKenzies...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+Moscow Death Brigade,1,"         Date                                              Bands                       City                Venue
+0  07/08/2022  Dukkha;Heart Attack;Moscow Death Brigade;Hangm...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022"
+Ne Obliviscaris,1,"         Date                                  Bands   City          Venue
+0  21/05/2023  Ne Obliviscaris;Persefone;The Omnific  Paris  Le Petit Bain"
+Moonspell,1,"         Date                                              Bands                       City                Venue
+0  05/08/2023  Buy Jupiter;Beyond The Styx;The Real McKenzies...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+Nervosa,1,"         Date                                              Bands                       City                Venue
+0  06/08/2022  Deathawaits;Benighted;Nervosa;Unearth;Bombers;...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022"
+Monuments,1,"         Date                       Bands   City         Venue
+0  12/02/2023  Leprous;Monuments;Kalandra  Paris  Salle Pleyel"
+Pantera,1,"         Date                                              Bands     City          Venue
+0  18/06/2023  Slipknot;Pantera;Tenacious D;Amon Amarth;Incub...  Clisson  Hellfest 2023"
+Nostromo,1,"         Date                                              Bands                       City                Venue
+0  04/08/2019  Lodz;Insanity Alert;Nostromo;Ihsahn;Sick Of It...  Saint-Maurice-De-Gourdans  Sylak Open Air 2019"
+Monkey3,1,"         Date                                              Bands                       City                Venue
+0  03/08/2019  Yoda Rising;Hate;Monkey3;Eyehategod;Soilwork;D...  Saint-Maurice-De-Gourdans  Sylak Open Air 2019"
+Obituary,1,"         Date                                           Bands  City            Venue
+0  08/02/2023  Trivium;Heaven Shall Burn;Malevolence;Obituary  Lyon  Le Transbordeur"
+P-Troll,1,"         Date                                              Bands     City          Venue
+0  16/06/2023  Vended;P-Troll;Escape The Fate;Helms Alee;Unea...  Clisson  Hellfest 2023"
+Paledusk,1,"         Date                                     Bands  City       Venue
+0  14/03/2024  Polaris;Silent Planet;Thornhill;Paledusk  Lyon  La Rayonne"
+Mobius,1,"         Date                       Bands  City       Venue
+0  19/07/2024  Sat One;Mobius;Talvienkeli  Lyon  Rock N Eat"
+Nick Heywood,1,"         Date                                              Bands  City       Venue
+0  12/07/2024  Los Disidentes Del Sucio Motel;Left Shore;Nick...  Lyon  Rock N Eat"
+1000Mods,1,"         Date                                              Bands                       City                Venue
+0  06/08/2022  Deathawaits;Benighted;Nervosa;Unearth;Bombers;...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022"
+Saor,1,"         Date                                              Bands     City          Venue
+0  17/06/2023  Hierophant;The Dali Thundering Concept;Kalandr...  Clisson  Hellfest 2023"
+Thornhill,1,"         Date                                     Bands  City       Venue
+0  14/03/2024  Polaris;Silent Planet;Thornhill;Paledusk  Lyon  La Rayonne"
+The Anchoret,1,"         Date                                              Bands   City                  Venue
+0  08/09/2024  The Anchoret;Voidchaser;La Corriveau;The Unive...  Lévis  Vieux Bureau De Poste"
+The Hillbilly Moon Explosion,1,"         Date                                              Bands                       City                Venue
+0  06/08/2023  Drive North;Eight Sins;Leng T'che;Church Of Mi...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+The Ocean,1,"         Date                   Bands         City               Venue
+0  05/05/2018  The Ocean;The Prestige  Rambouillet  L'Usine A Chapeaux"
+The Old Dead Tree,1,"         Date                                              Bands     City          Venue
+0  18/06/2023  Slipknot;Pantera;Tenacious D;Amon Amarth;Incub...  Clisson  Hellfest 2023"
+The Omnific,1,"         Date                                  Bands   City          Venue
+0  21/05/2023  Ne Obliviscaris;Persefone;The Omnific  Paris  Le Petit Bain"
+The Prestige,1,"         Date                   Bands         City               Venue
+0  05/05/2018  The Ocean;The Prestige  Rambouillet  L'Usine A Chapeaux"
+The Real McKenzies,1,"         Date                                              Bands                       City                Venue
+0  05/08/2023  Buy Jupiter;Beyond The Styx;The Real McKenzies...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+The Universe Effects,1,"         Date                                              Bands   City                  Venue
+0  08/09/2024  The Anchoret;Voidchaser;La Corriveau;The Unive...  Lévis  Vieux Bureau De Poste"
+Tribute To Thrash,1,"         Date                                              Bands                City              Venue
+0  05/07/2024  Drive North;Blackrain;Beast In Black;Point Mor...  Colombier-Saugnieu  Plane'R Fest 2024"
+Sat One,1,"         Date                       Bands  City       Venue
+0  19/07/2024  Sat One;Mobius;Talvienkeli  Lyon  Rock N Eat"
+Trivium,1,"         Date                                           Bands  City            Venue
+0  08/02/2023  Trivium;Heaven Shall Burn;Malevolence;Obituary  Lyon  Le Transbordeur"
+Ultra Moule,1,"         Date                                              Bands                       City                Venue
+0  05/08/2022  Dead Kiwis;Ultra Moule;Sublime C.D.;Born From ...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022"
+Vended,1,"         Date                                              Bands     City          Venue
+0  16/06/2023  Vended;P-Troll;Escape The Fate;Helms Alee;Unea...  Clisson  Hellfest 2023"
+Villagers Of Ioannina City,1,"         Date                                              Bands                City              Venue
+0  06/07/2024  Bakü;Animalize;Ashen;Hanabie.;Smash Hit Combo;...  Colombier-Saugnieu  Plane'R Fest 2024"
+Voidchaser,1,"         Date                                              Bands   City                  Venue
+0  08/09/2024  The Anchoret;Voidchaser;La Corriveau;The Unive...  Lévis  Vieux Bureau De Poste"
+Walls Of Jericho,1,"         Date                                              Bands                       City                Venue
+0  05/08/2023  Buy Jupiter;Beyond The Styx;The Real McKenzies...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+While She Sleeps,1,"         Date                           Bands  City            Venue
+0  14/05/2023  While She Sleeps;Resolve;Ashen  Lyon  Ninkasi Gerland"
+Within Temptation,1,"         Date                                              Bands     City          Venue
+0  17/06/2023  Hierophant;The Dali Thundering Concept;Kalandr...  Clisson  Hellfest 2023"
+The Amity Affliction,1,"         Date                                              Bands  City            Venue
+0  20/06/2023  Lorna Shore;Motionless In White;The Amity Affl...  Lyon  Le Transbordeur"
+Thantifaxath,1,"         Date                    Bands   City          Venue
+0  20/04/2024  Bell Witch;Thantifaxath  Paris  Le Petit Bain"
+Tenacious D,1,"         Date                                              Bands     City          Venue
+0  18/06/2023  Slipknot;Pantera;Tenacious D;Amon Amarth;Incub...  Clisson  Hellfest 2023"
+Ten56.,1,"         Date                                              Bands     City          Venue
+0  17/06/2023  Hierophant;The Dali Thundering Concept;Kalandr...  Clisson  Hellfest 2023"
+Sepultura,1,"         Date                                              Bands                       City                Venue
+0  05/08/2023  Buy Jupiter;Beyond The Styx;The Real McKenzies...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+Sick Of It All,1,"         Date                                              Bands                       City                Venue
+0  04/08/2019  Lodz;Insanity Alert;Nostromo;Ihsahn;Sick Of It...  Saint-Maurice-De-Gourdans  Sylak Open Air 2019"
+Silent Planet,1,"         Date                                     Bands  City       Venue
+0  14/03/2024  Polaris;Silent Planet;Thornhill;Paledusk  Lyon  La Rayonne"
+Slipknot,1,"         Date                                              Bands     City          Venue
+0  18/06/2023  Slipknot;Pantera;Tenacious D;Amon Amarth;Incub...  Clisson  Hellfest 2023"
+Slow Crush,1,"         Date                             Bands           City   Venue
+0  22/10/2023  Cult Of Luna;GGGOLDDD;Slow Crush  Saint-Etienne  Le Fil"
+Mad Sin,1,"         Date                                              Bands                       City                Venue
+0  07/08/2022  Dukkha;Heart Attack;Moscow Death Brigade;Hangm...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022"
+Smash Hit Combo,1,"         Date                                              Bands                City              Venue
+0  06/07/2024  Bakü;Animalize;Ashen;Hanabie.;Smash Hit Combo;...  Colombier-Saugnieu  Plane'R Fest 2024"
+Soilwork,1,"         Date                                              Bands                       City                Venue
+0  03/08/2019  Yoda Rising;Hate;Monkey3;Eyehategod;Soilwork;D...  Saint-Maurice-De-Gourdans  Sylak Open Air 2019"
+Solstafir,1,"         Date                                              Bands                       City                Venue
+0  05/08/2023  Buy Jupiter;Beyond The Styx;The Real McKenzies...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+Soulfly,1,"         Date                                              Bands                       City                Venue
+0  06/08/2023  Drive North;Eight Sins;Leng T'che;Church Of Mi...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+Stellar Circuits,1,"         Date                                       Bands  City       Venue
+0  18/02/2024  Persefone;Hypno5e;LAMPR3A;Stellar Circuits  Lyon  Rock N Eat"
+Stömb,1,"         Date                                        Bands        City        Venue
+0  25/11/2023  Novelists;Stömb;The Dali Thundering Concept  Guyancourt  La Batterie"
+Sublime C.D.,1,"         Date                                              Bands                       City                Venue
+0  05/08/2022  Dead Kiwis;Ultra Moule;Sublime C.D.;Born From ...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022"
+Suffocation,1,"         Date                                              Bands                       City                Venue
+0  07/08/2022  Dukkha;Heart Attack;Moscow Death Brigade;Hangm...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022"
+Sum 41,1,"         Date                                              Bands     City          Venue
+0  16/06/2023  Vended;P-Troll;Escape The Fate;Helms Alee;Unea...  Clisson  Hellfest 2023"
+Svalbard,1,"         Date                                              Bands     City          Venue
+0  17/06/2023  Hierophant;The Dali Thundering Concept;Kalandr...  Clisson  Hellfest 2023"
+Talvienkeli,1,"         Date                       Bands  City       Venue
+0  19/07/2024  Sat One;Mobius;Talvienkeli  Lyon  Rock N Eat"
+Madball,1,"         Date                                              Bands                       City                Venue
+0  03/08/2019  Yoda Rising;Hate;Monkey3;Eyehategod;Soilwork;D...  Saint-Maurice-De-Gourdans  Sylak Open Air 2019"
+La Corriveau,1,"         Date                                              Bands   City                  Venue
+0  08/09/2024  The Anchoret;Voidchaser;La Corriveau;The Unive...  Lévis  Vieux Bureau De Poste"
+MONO,1,"         Date                     Bands      City              Venue
+0  22/03/2025  Alcest;MONO;Kaelan Mikla  Montréal  Théâtre Beanfield"
+Death Before Dishonor,1,"         Date                                              Bands                       City                Venue
+0  04/08/2023  Primal Rage;Electric Jaguar Baby;Prismeria;Ale...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+Carcass,1,"         Date                                              Bands                       City                Venue
+0  06/08/2022  Deathawaits;Benighted;Nervosa;Unearth;Bombers;...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022"
+Carpenter Brut,1,"         Date                                              Bands     City          Venue
+0  17/06/2023  Hierophant;The Dali Thundering Concept;Kalandr...  Clisson  Hellfest 2023"
+Church Of Misery,1,"         Date                                              Bands                       City                Venue
+0  06/08/2023  Drive North;Eight Sins;Leng T'che;Church Of Mi...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+Cognitive,1,"         Date                Bands    City   Venue
+0  30/09/2024  Benighted;Cognitive  Québec  L'Anti"
+Coheed And Cambria,1,"         Date                                              Bands     City          Venue
+0  15/06/2023  Hypno5e;Coheed And Cambria;I Prevail;In Flames...  Clisson  Hellfest 2023"
+Cult Of Luna,1,"         Date                             Bands           City   Venue
+0  22/10/2023  Cult Of Luna;GGGOLDDD;Slow Crush  Saint-Etienne  Le Fil"
+Danko Jones,1,"         Date                                              Bands                       City                Venue
+0  03/08/2019  Yoda Rising;Hate;Monkey3;Eyehategod;Soilwork;D...  Saint-Maurice-De-Gourdans  Sylak Open Air 2019"
+Dead Kiwis,1,"         Date                                              Bands                       City                Venue
+0  05/08/2022  Dead Kiwis;Ultra Moule;Sublime C.D.;Born From ...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022"
+Deicide,1,"         Date                                              Bands                       City                Venue
+0  06/08/2023  Drive North;Eight Sins;Leng T'che;Church Of Mi...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+Bombers,1,"         Date                                              Bands                       City                Venue
+0  06/08/2022  Deathawaits;Benighted;Nervosa;Unearth;Bombers;...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022"
+Demented Are Go,1,"         Date                                              Bands                       City                Venue
+0  06/08/2023  Drive North;Eight Sins;Leng T'che;Church Of Mi...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+Eight Sins,1,"         Date                                              Bands                       City                Venue
+0  06/08/2023  Drive North;Eight Sins;Leng T'che;Church Of Mi...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+Electric Callboy,1,"         Date                                              Bands     City          Venue
+0  18/06/2023  Slipknot;Pantera;Tenacious D;Amon Amarth;Incub...  Clisson  Hellfest 2023"
+Electric Jaguar Baby,1,"         Date                                              Bands                       City                Venue
+0  04/08/2023  Primal Rage;Electric Jaguar Baby;Prismeria;Ale...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+Employed To Serve,1,"         Date                                    Bands  City               Venue
+0  28/02/2023  Gojira;Alien Weaponry;Employed To Serve  Lyon  Halle Tony Garnier"
+Escape The Fate,1,"         Date                                              Bands     City          Venue
+0  16/06/2023  Vended;P-Troll;Escape The Fate;Helms Alee;Unea...  Clisson  Hellfest 2023"
+Exodus,1,"         Date                                              Bands                       City                Venue
+0  07/08/2022  Dukkha;Heart Attack;Moscow Death Brigade;Hangm...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022"
+Fallujah,1,"         Date                                              Bands   City                  Venue
+0  02/12/2022  Rivers Of Nihil;Allegaeon;Fallujah;Harbinger;I...  Paris  Backstage By The Mill"
+Born From Pain,1,"         Date                                              Bands                       City                Venue
+0  05/08/2022  Dead Kiwis;Ultra Moule;Sublime C.D.;Born From ...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022"
+Bloodbath,1,"         Date                                              Bands     City          Venue
+0  16/06/2023  Vended;P-Troll;Escape The Fate;Helms Alee;Unea...  Clisson  Hellfest 2023"
+Los Disidentes Del Sucio Motel,1,"         Date                                              Bands  City       Venue
+0  12/07/2024  Los Disidentes Del Sucio Motel;Left Shore;Nick...  Lyon  Rock N Eat"
+Apocalyptica,1,"         Date                                              Bands                       City                Venue
+0  03/08/2019  Yoda Rising;Hate;Monkey3;Eyehategod;Soilwork;D...  Saint-Maurice-De-Gourdans  Sylak Open Air 2019"
+Alea Jacta Est,1,"         Date                                              Bands                       City                Venue
+0  04/08/2023  Primal Rage;Electric Jaguar Baby;Prismeria;Ale...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+Alestorm,1,"         Date                                              Bands                       City                Venue
+0  06/08/2022  Deathawaits;Benighted;Nervosa;Unearth;Bombers;...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022"
+Alien Weaponry,1,"         Date                                    Bands  City               Venue
+0  28/02/2023  Gojira;Alien Weaponry;Employed To Serve  Lyon  Halle Tony Garnier"
+Allegaeon,1,"         Date                                              Bands   City                  Venue
+0  02/12/2022  Rivers Of Nihil;Allegaeon;Fallujah;Harbinger;I...  Paris  Backstage By The Mill"
+Alter Bridge,1,"         Date                                              Bands     City          Venue
+0  16/06/2023  Vended;P-Troll;Escape The Fate;Helms Alee;Unea...  Clisson  Hellfest 2023"
+Amaranthe,1,"         Date                Bands   City               Venue
+0  02/11/2017  Eluveitie;Amaranthe  Paris  Le Cabaret Sauvage"
+Amon Amarth,1,"         Date                                              Bands     City          Venue
+0  18/06/2023  Slipknot;Pantera;Tenacious D;Amon Amarth;Incub...  Clisson  Hellfest 2023"
+Animalize,1,"         Date                                              Bands                City              Venue
+0  06/07/2024  Bakü;Animalize;Ashen;Hanabie.;Smash Hit Combo;...  Colombier-Saugnieu  Plane'R Fest 2024"
+Arch Enemy,1,"         Date                                              Bands     City          Venue
+0  17/06/2023  Hierophant;The Dali Thundering Concept;Kalandr...  Clisson  Hellfest 2023"
+Blockheads,1,"         Date                                              Bands                       City                Venue
+0  04/08/2023  Primal Rage;Electric Jaguar Baby;Prismeria;Ale...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+Architects,1,"         Date                                              Bands     City          Venue
+0  15/06/2023  Hypno5e;Coheed And Cambria;I Prevail;In Flames...  Clisson  Hellfest 2023"
+Beast In Black,1,"         Date                                              Bands                City              Venue
+0  05/07/2024  Drive North;Blackrain;Beast In Black;Point Mor...  Colombier-Saugnieu  Plane'R Fest 2024"
+Behemoth,1,"         Date                                              Bands     City          Venue
+0  15/06/2023  Hypno5e;Coheed And Cambria;I Prevail;In Flames...  Clisson  Hellfest 2023"
+Bell Witch,1,"         Date                    Bands   City          Venue
+0  20/04/2024  Bell Witch;Thantifaxath  Paris  Le Petit Bain"
+Beyond The Styx,1,"         Date                                              Bands                       City                Venue
+0  05/08/2023  Buy Jupiter;Beyond The Styx;The Real McKenzies...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+Black Bomb A,1,"         Date                                              Bands                City              Venue
+0  05/07/2024  Drive North;Blackrain;Beast In Black;Point Mor...  Colombier-Saugnieu  Plane'R Fest 2024"
+Black Flag,1,"         Date                                              Bands                       City                Venue
+0  03/08/2019  Yoda Rising;Hate;Monkey3;Eyehategod;Soilwork;D...  Saint-Maurice-De-Gourdans  Sylak Open Air 2019"
+Blackrain,1,"         Date                                              Bands                City              Venue
+0  05/07/2024  Drive North;Blackrain;Beast In Black;Point Mor...  Colombier-Saugnieu  Plane'R Fest 2024"
+Faun,1,"         Date                                              Bands                       City                Venue
+0  07/08/2022  Dukkha;Heart Attack;Moscow Death Brigade;Hangm...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022"
+Fight The Fight,1,"         Date                    Bands  City       Venue
+0  05/03/2024  Leprous;Fight The Fight  Lyon  La Rayonne"
+GGGOLDDD,1,"         Date                             Bands           City   Venue
+0  22/10/2023  Cult Of Luna;GGGOLDDD;Slow Crush  Saint-Etienne  Le Fil"
+Ko Ko Mo,1,"         Date                                              Bands                City              Venue
+0  06/07/2024  Bakü;Animalize;Ashen;Hanabie.;Smash Hit Combo;...  Colombier-Saugnieu  Plane'R Fest 2024"
+Incubus,1,"         Date                                              Bands     City          Venue
+0  18/06/2023  Slipknot;Pantera;Tenacious D;Amon Amarth;Incub...  Clisson  Hellfest 2023"
+Inferi,1,"         Date                                              Bands   City                  Venue
+0  02/12/2022  Rivers Of Nihil;Allegaeon;Fallujah;Harbinger;I...  Paris  Backstage By The Mill"
+Insanity Alert,1,"         Date                                              Bands                       City                Venue
+0  04/08/2019  Lodz;Insanity Alert;Nostromo;Ihsahn;Sick Of It...  Saint-Maurice-De-Gourdans  Sylak Open Air 2019"
+Iron Maiden,1,"         Date                                              Bands     City          Venue
+0  17/06/2023  Hierophant;The Dali Thundering Concept;Kalandr...  Clisson  Hellfest 2023"
+Jinjer,1,"         Date                                              Bands                       City                Venue
+0  06/08/2022  Deathawaits;Benighted;Nervosa;Unearth;Bombers;...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022"
+Johan Lenox,1,"         Date                 Bands   City     Venue
+0  27/05/2023  Polyphia;Johan Lenox  Paris  Bataclan"
+Kaelan Mikla,1,"         Date                     Bands      City              Venue
+0  22/03/2025  Alcest;MONO;Kaelan Mikla  Montréal  Théâtre Beanfield"
+Kiss,1,"         Date                                              Bands     City          Venue
+0  15/06/2023  Hypno5e;Coheed And Cambria;I Prevail;In Flames...  Clisson  Hellfest 2023"
+Korpiklaani,1,"         Date                                              Bands                       City                Venue
+0  07/08/2022  Dukkha;Heart Attack;Moscow Death Brigade;Hangm...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022"
+Generation Sex,1,"         Date                                              Bands     City          Venue
+0  15/06/2023  Hypno5e;Coheed And Cambria;I Prevail;In Flames...  Clisson  Hellfest 2023"
+Kreator,1,"         Date                                              Bands                       City                Venue
+0  05/08/2023  Buy Jupiter;Beyond The Styx;The Real McKenzies...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+LAMPR3A,1,"         Date                                       Bands  City       Venue
+0  18/02/2024  Persefone;Hypno5e;LAMPR3A;Stellar Circuits  Lyon  Rock N Eat"
+Alcest,1,"         Date                     Bands      City              Venue
+0  22/03/2025  Alcest;MONO;Kaelan Mikla  Montréal  Théâtre Beanfield"
+Left Shore,1,"         Date                                              Bands  City       Venue
+0  12/07/2024  Los Disidentes Del Sucio Motel;Left Shore;Nick...  Lyon  Rock N Eat"
+Leng T'che,1,"         Date                                              Bands                       City                Venue
+0  06/08/2023  Drive North;Eight Sins;Leng T'che;Church Of Mi...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+Loathe,1,"         Date                                              Bands     City          Venue
+0  17/06/2023  Hierophant;The Dali Thundering Concept;Kalandr...  Clisson  Hellfest 2023"
+Lodz,1,"         Date                                              Bands                       City                Venue
+0  04/08/2019  Lodz;Insanity Alert;Nostromo;Ihsahn;Sick Of It...  Saint-Maurice-De-Gourdans  Sylak Open Air 2019"
+Lorna Shore,1,"         Date                                              Bands  City            Venue
+0  20/06/2023  Lorna Shore;Motionless In White;The Amity Affl...  Lyon  Le Transbordeur"
+In Other Climes,1,"         Date                                              Bands                       City                Venue
+0  02/08/2019  Pastors Of Muppets;Mudweiser;In Other Climes;G...  Saint-Maurice-De-Gourdans  Sylak Open Air 2019"
+In Flames,1,"         Date                                              Bands     City          Venue
+0  15/06/2023  Hypno5e;Coheed And Cambria;I Prevail;In Flames...  Clisson  Hellfest 2023"
+Ihsahn,1,"         Date                                              Bands                       City                Venue
+0  04/08/2019  Lodz;Insanity Alert;Nostromo;Ihsahn;Sick Of It...  Saint-Maurice-De-Gourdans  Sylak Open Air 2019"
+Igorrr,1,"         Date                                              Bands                City              Venue
+0  05/07/2024  Drive North;Blackrain;Beast In Black;Point Mor...  Colombier-Saugnieu  Plane'R Fest 2024"
+Gojira,1,"         Date                                    Bands  City               Venue
+0  28/02/2023  Gojira;Alien Weaponry;Employed To Serve  Lyon  Halle Tony Garnier"
+Gorgoroth,1,"         Date                                              Bands     City          Venue
+0  16/06/2023  Vended;P-Troll;Escape The Fate;Helms Alee;Unea...  Clisson  Hellfest 2023"
+Gutalax,1,"         Date                                              Bands                       City                Venue
+0  02/08/2019  Pastors Of Muppets;Mudweiser;In Other Climes;G...  Saint-Maurice-De-Gourdans  Sylak Open Air 2019"
+Haken,1,"         Date  Bands   City            Venue
+0  29/03/2017  Haken  Paris  La Maroquinerie"
+Hanabie.,1,"         Date                                              Bands                City              Venue
+0  06/07/2024  Bakü;Animalize;Ashen;Hanabie.;Smash Hit Combo;...  Colombier-Saugnieu  Plane'R Fest 2024"
+Hangman's Chair,1,"         Date                                              Bands                       City                Venue
+0  07/08/2022  Dukkha;Heart Attack;Moscow Death Brigade;Hangm...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022"
+Harbinger,1,"         Date                                              Bands   City                  Venue
+0  02/12/2022  Rivers Of Nihil;Allegaeon;Fallujah;Harbinger;I...  Paris  Backstage By The Mill"
+Hate,1,"         Date                                              Bands                       City                Venue
+0  03/08/2019  Yoda Rising;Hate;Monkey3;Eyehategod;Soilwork;D...  Saint-Maurice-De-Gourdans  Sylak Open Air 2019"
+Heart Attack,1,"         Date                                              Bands                       City                Venue
+0  07/08/2022  Dukkha;Heart Attack;Moscow Death Brigade;Hangm...  Saint-Maurice-De-Gourdans  Sylak Open Air 2022"
+Heaven Shall Burn,1,"         Date                                           Bands  City            Venue
+0  08/02/2023  Trivium;Heaven Shall Burn;Malevolence;Obituary  Lyon  Le Transbordeur"
+Heilung,1,"         Date                                              Bands                       City                Venue
+0  06/08/2023  Drive North;Eight Sins;Leng T'che;Church Of Mi...  Saint-Maurice-De-Gourdans  Sylak Open Air 2023"
+Helms Alee,1,"         Date                                              Bands     City          Venue
+0  16/06/2023  Vended;P-Troll;Escape The Fate;Helms Alee;Unea...  Clisson  Hellfest 2023"
+Hierophant,1,"         Date                                              Bands     City          Venue
+0  17/06/2023  Hierophant;The Dali Thundering Concept;Kalandr...  Clisson  Hellfest 2023"
+Hollywood Vampires,1,"         Date                                              Bands     City          Venue
+0  15/06/2023  Hypno5e;Coheed And Cambria;I Prevail;In Flames...  Clisson  Hellfest 2023"
+Horskh,1,"         Date                                              Bands                City              Venue
+0  06/07/2024  Bakü;Animalize;Ashen;Hanabie.;Smash Hit Combo;...  Colombier-Saugnieu  Plane'R Fest 2024"
+Hypocrisy,1,"         Date                                              Bands                       City                Venue
+0  03/08/2019  Yoda Rising;Hate;Monkey3;Eyehategod;Soilwork;D...  Saint-Maurice-De-Gourdans  Sylak Open Air 2019"
+I Prevail,1,"         Date                                              Bands     City          Venue
+0  15/06/2023  Hypno5e;Coheed And Cambria;I Prevail;In Flames...  Clisson  Hellfest 2023"
+Yoda Rising,1,"         Date                                              Bands                       City                Venue
+0  03/08/2019  Yoda Rising;Hate;Monkey3;Eyehategod;Soilwork;D...  Saint-Maurice-De-Gourdans  Sylak Open Air 2019"

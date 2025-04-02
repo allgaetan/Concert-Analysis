@@ -1,3 +1,3 @@
 # Concert Analysis
 
-Python scripts to analyze your personal music shows history.
+Python scripts to analyze your personal concert history.
