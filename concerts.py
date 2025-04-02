@@ -129,7 +129,7 @@ class Concerts:
         concerts = self.get_concerts_between_dates(start_date=start_date, end_date=end_date)
         return concerts
     
-    def plot_by_month(self):
+    def plot_by_month(self, show=False, save=False, file_path=None):
         start_date = self.data["Date"][0]
         end_date = self.data["Date"][len(self.data)-1]
         year_span = [str(year) for year in range(int(start_date.split("/")[2]), int(end_date.split("/")[2]) + 1)]
@@ -145,9 +145,9 @@ class Concerts:
                 n_concerts.append(len(c.data))
                 n_bands.append(len(c.get_bands()))
 
-        return plot(month_span, n_concerts, n_bands)
+        return plot(month_span, n_concerts, n_bands, show, save, file_path)
         
-    def plot_by_year(self):
+    def plot_by_year(self, show=False, save=False, file_path=None):
         start_date = self.data["Date"][0]
         end_date = self.data["Date"][len(self.data)-1]
         year_span = [str(year) for year in range(int(start_date.split("/")[2]), int(end_date.split("/")[2]) + 1)]
@@ -158,4 +158,4 @@ class Concerts:
             n_concerts.append(len(c.data))
             n_bands.append(len(c.get_bands()))
 
-        return plot(year_span, n_concerts, n_bands)
+        return plot(year_span, n_concerts, n_bands, show, save, file_path)
