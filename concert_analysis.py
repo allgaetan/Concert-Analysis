@@ -21,4 +21,4 @@ if __name__ == "__main__":
     concerts.plot_by_month()
     concerts.plot_by_year()
     """
-    concerts.get_bands_count(write_to_csv=True, details=True)
+    concerts.get_bands_count(write_to_csv=True, dates=True)

@@ -88,19 +88,22 @@ class Concerts:
         concerts = pd.concat([concerts, pd.DataFrame(rows)], ignore_index=True)
         return concerts
     
-    def get_bands_count(self, write_to_csv=False, details=False):
+    def get_bands_count(self, write_to_csv=False, dates=False):
         bands = self.get_bands()
         bands_count = pd.DataFrame(columns=["Band", "Count"])
         rows = []
         for band in bands:
             count = get_band_count(self.data, band)
-            if details:
+            if dates:
                 concerts = Concerts(df=self.get_concerts_by_band(band))
-                rows.append({"Band": band, "Count": count, "Concerts": concerts})
+                d = []
+                for index, row in concerts.data.iterrows():
+                    d.append(row["Date"])
+                rows.append({"Band": band, "Count": count, "Dates": d})
             else:
                 rows.append({"Band": band, "Count": count})
         bands_count = pd.concat([bands_count, pd.DataFrame(rows)], ignore_index=True)
-        bands_count = bands_count.sort_values(by=["Count"], ascending=False)
+        bands_count = bands_count.sort_values(by=["Count", "Band"], ascending=[False, True])
 
         if write_to_csv:
             bands_count.to_csv("bands.csv", index=False)
